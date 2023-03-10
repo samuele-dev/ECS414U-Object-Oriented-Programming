@@ -1,5 +1,5 @@
 Student name: Samuele Joshi
-Student number: 180318461
+Student number:
 
 LEVEL YOU WISH THE MINI-PROJECT TO BE MARKED FOR: 1 / 2
 
@@ -181,14 +181,3 @@ statistics - (71, 96, 278, 303)
 Polymorphism is nessercy in my code as rather than making a generic method for example my "attack" method, I can make it more personalised and specific for the type of class that has it. A player attack wouldn't need to have weapon damage seeing that Player class does not have an instance weapon compared to my Boss class which does have a weapon. It also allows me to reduce code as I do not need to check the instance of the object making my code faster and efficient. 
 
 ANYTHING ELSE
-
-Student has dyslexia which:
-The candidate’s spelling, grammar and punctuation may be less accurate than expected
-
-The candidate’s organisation of ideas may be confused, affecting the overall structure of written work
-
-The candidate’s proof reading may be weak with some errors undetected, particularly homophones and homonyms which can avoid spell checkers
-
-TestGame is where you execute the game.
-Skype: samuelejoshi25
-[If there is anything else that you wish the marker to be aware of, please describe if (briefly) here.]
