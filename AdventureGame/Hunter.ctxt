@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Hunter
+comment1.params=name\ health\ attackDamage
+comment1.target=Hunter(java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=void\ increaseAD()
+comment3.params=
+comment3.target=boolean\ hasAbility()
+comment4.params=
+comment4.target=void\ removeSpecialAbility()
+numComments=5

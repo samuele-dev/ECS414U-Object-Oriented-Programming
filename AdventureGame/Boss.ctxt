@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Boss
+comment1.params=name\ health\ attackDamage\ level
+comment1.target=Boss(java.lang.String,\ int,\ int,\ int)
+comment2.params=
+comment2.target=boolean\ hasWeapon()
+comment3.params=
+comment3.target=boolean\ noWeapon()
+comment4.params=
+comment4.target=Weapon\ equipWeapon()
+comment5.params=player
+comment5.target=void\ attack(Player)
+comment6.params=
+comment6.target=void\ statistics()
+comment7.params=weapon
+comment7.target=void\ setWeapon(Weapon)
+comment8.params=
+comment8.target=Weapon\ getWeapon()
+numComments=9

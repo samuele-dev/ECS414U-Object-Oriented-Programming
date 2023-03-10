@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Inventory
+comment1.params=
+comment1.target=Inventory()
+comment2.params=itemSearch\ player
+comment2.target=void\ equipItem(java.lang.String,\ Player)
+comment3.params=items
+comment3.target=void\ addItem(Item)
+comment4.params=items
+comment4.target=void\ removeItem(Item)
+comment5.params=
+comment5.target=void\ printInventory()
+numComments=6

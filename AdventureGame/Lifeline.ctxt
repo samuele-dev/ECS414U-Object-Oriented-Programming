@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Lifeline
+comment1.params=name\ health\ attackDamage
+comment1.target=Lifeline(java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=boolean\ hasAbility()
+comment3.params=
+comment3.target=void\ selfIncreaseHP()
+comment4.params=
+comment4.target=void\ removeSpecialAbility()
+comment5.params=
+comment5.target=int\ getSelfHPIncrease()
+numComments=6

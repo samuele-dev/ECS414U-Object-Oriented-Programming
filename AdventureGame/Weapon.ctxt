@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Weapon
+comment1.params=itemName\ itemQuantity\ weaponDamage
+comment1.target=Weapon(java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=int\ getWeaponDamage()
+comment3.params=weaponDamage
+comment3.target=void\ setWeaponDamage(int)
+numComments=4

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Armour
+comment1.params=itemName\ itemQuantity\ armourResistance
+comment1.target=Armour(java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=int\ getArmourResistance()
+comment3.params=armourResistance
+comment3.target=void\ setArmourResistance(int)
+numComments=4

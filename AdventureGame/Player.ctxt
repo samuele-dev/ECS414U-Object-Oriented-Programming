@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Player
+comment1.params=name\ health\ attackDamage
+comment1.target=Player(java.lang.String,\ int,\ int)
+comment2.params=enemy
+comment2.target=void\ attack(Enemy)
+comment3.params=
+comment3.target=void\ statistics()
+comment4.params=
+comment4.target=void\ selfIncreaseHP()
+comment5.params=
+comment5.target=void\ increaseAD()
+comment6.params=potion
+comment6.target=void\ setPotion(Potion)
+comment7.params=
+comment7.target=Potion\ getPotion()
+comment8.params=
+comment8.target=int\ getStoreXP()
+comment9.params=xpValueGiven
+comment9.target=void\ setStoreXP(int)
+numComments=10

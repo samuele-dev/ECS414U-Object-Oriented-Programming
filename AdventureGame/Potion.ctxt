@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Potion
+comment1.params=itemName\ itemQuantity\ hpIncrease
+comment1.target=Potion(java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=int\ getHPIncrease()
+comment3.params=hpIncrease
+comment3.target=int\ setHPIncrease(int)
+numComments=4
